@@ -1,15 +1,17 @@
-# Intellegent-Argumentation-for-AI-Debater-CCAC2022
+# CCAC 2022 第二届智慧论辩评测（AI-Debater)
 
-## INTRODUCTION
+## 简介
 
-This year's intelligent argumentation evaluation competition contains 4 sub-tasks, covering argument extraction(**track1**), argument discovery(**track2**), interactive argument pair extraction(**track3**) and argument generation(**track4**). This year's competition provides data in both Chinese and English as evaluation corpus.
+本届智慧辩手评测由中国中文信息学会情感计算专委会（CIPS-CCAC）主办， 复旦大学数据智能与社会计算实验室、阿里巴巴达摩院语言智能实验室共同承办，欢迎各界人士参与。
 
-English Dataset (supporting **track 1** and **track 2**): The dataset is derived from the English Wikipedia, and is annotated by professional annotators for arguments, positions, arguments, etc., and organized into a formatted text file.
+本届智能论辩评测比赛包含4个子任务，任务内容覆盖论点抽取、论据发现、交互论点对提取和论点生成。 本届比赛提供中英文两个语种的数据作为评测语料。
 
-Chinese Dataset (Supporting **track 3** and **track 4**): The dataset is derived from nearly 700 well-known Chinese debate competitions from 2007 to 2021, and the single-link and unilateral statement text of each game is obtained through speech transliteration and manual verification, and the annotator has made the argument sentence and interactive argument equal labeling, and organized into a formatted text file.
+英文数据集（支撑**赛道一**和**赛道二**）：数据集来源于英文维基百科，由专业标注员进行了论点、立场、论据等标注，整理为带格式的txt文件。
 
-We will provide four baseline models, one for each track. The baseline models for **track3** and **track4** are expected to be updated in early July.
+中文数据集（支撑**赛道三**和**赛道四**）：数据集来源于2007至2021年的近700场知名华语辩论比赛， 经由语音转译及人工校验得到了每场比赛的单环节、单方陈词文本，由标注员进行了论点句和互动论点对等标注，整理为带格式的txt文件。
 
-We provide four datasets in this task, one for each track.
+本次评测项目，每个赛道会提供一个数据集。不仅如此，我们还将为每个赛道提供一个基线模型，基线模型还在陆续更新中。
 
-For more detailed information, competition registration and **dataset downloading**, please refer to <http://www.fudan-disc.com/sharedtask/AIDebater22/index.html>
+如需了解更多赛事信息、报名参赛或**下载数据集**，请访问以下链接：
+
+<http://www.fudan-disc.com/sharedtask/AIDebater22/index.html>
